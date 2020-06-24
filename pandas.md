@@ -1,0 +1,17 @@
+- read file
+  - csv
+  - excel
+- show
+  - df
+  - head
+  - tail
+- filter
+  - slice
+  - filter w/ value
+- Loop
+  - iterrow
+- group
+  - groupby 
+  - agg
+- export
+  - to csv
